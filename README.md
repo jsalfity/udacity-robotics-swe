@@ -30,7 +30,7 @@ gazebo ./udacity-robotics-swe/project/world/salfity_world.world
 
 Launch Gazebo: 
 
-```roslaunch ball_chaser ball_chaser.launch```
+```roslaunch my_robot world.launch```
 
 Launch the ball chaser: 
 
