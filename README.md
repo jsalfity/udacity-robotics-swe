@@ -37,3 +37,5 @@ Launch the ball chaser:
 ```roslaunch ball_chaser ball_chaser.launch```. 
 
 A simple proportional controller is implemented, `Kp` gain for `ang_z` and `lin_x` is set within `process_image.cpp`.
+
+## Project3 - "Where am I"
