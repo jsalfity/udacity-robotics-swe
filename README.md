@@ -75,3 +75,8 @@ Either send a command in rviz with `Send 2DGoal` or command by teleop:
 ```sh
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
+
+Images from rviz seen below:
+![](project3/img/1.png)
+![](project3/img/2.png)
+![](project3/img/3.png)
