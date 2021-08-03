@@ -2,7 +2,7 @@
 
 Launch Gazebo: 
 
-```roslaunch ball_chaser ball_chaser.launch```
+```roslaunch my_robot my_robot.launch```
 
 Launch the ball chaser: 
 
